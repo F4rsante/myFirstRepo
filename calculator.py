@@ -1,3 +1,4 @@
+#Hello this is my first python program, I hope you like it
 def suma(valor1,valor2):
     return valor1+valor2
 def resta(valor1,valor2):
